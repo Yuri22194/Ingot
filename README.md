@@ -1,7 +1,7 @@
-# Ingot
-A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page
+# Ingot2
+Disable extensions based on LTBEEF with an interface based on the chrome extension page.
 
-### Installation
+### Installation:
 For easy setup go the the website at https://fognetwork.github.io/Ingot
 
 1. Show your bookmarks bar with `ctrl + shift + b`
@@ -13,7 +13,3 @@ For easy setup go the the website at https://fognetwork.github.io/Ingot
 ```js
 javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
 ```
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/81875430/192154755-0f3c4ad5-0637-445a-b928-5e78a3b33a55.png)
-![image](https://user-images.githubusercontent.com/81875430/192154766-49dfa5b1-11a8-4bb0-b4cb-5ac01301a8b0.png)
